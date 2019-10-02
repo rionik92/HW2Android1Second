@@ -1,13 +1,14 @@
-package com.example.hw2android1second;
+package com.example.RomaCALCULATOR_Android1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
-import android.view.Window;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import com.example.hw2android1second.R;
 
 public class MainActivity extends AppCompatActivity {
 
